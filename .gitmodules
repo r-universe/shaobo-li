@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hrqglas"]
+	path = hrqglas
+	url = https://github.com/shaobo-li/hrqglas
+	shallow = true
+	registered = true
+[submodule "MTE"]
+	path = MTE
+	url = https://github.com/shaobo-li/mte
+	shallow = true
+	registered = true
